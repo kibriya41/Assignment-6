@@ -6,7 +6,7 @@ import { CiPlay1 } from "react-icons/ci";
 
 const HeroPart = () => {
     return (
-        <div className='max-w-9/12 m-auto s flex justify-between items-center my-20'>
+        <div className='max-w-9/12 m-auto flex justify-between items-center my-20'>
             <div className='items-start flex flex-col gap-4 '>
                 <div className='flex justify-center items-center gap-2 text-purple-600 font-light bg-purple-100 max-w-80 text-lg rounded-full px-4 py-2'> <FaRegDotCircle />
                     New: AI-Powered Tools Available</div>
