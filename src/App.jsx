@@ -1,6 +1,7 @@
 
 
 import './App.css'
+import Footer from './Components/footer/Footer'
 import HeroPart from './Components/HeroSection/HeroPart'
 import GetStart from './Components/Main/GetStart'
 import Pricing from './Components/Main/Pricing'
@@ -19,6 +20,7 @@ function App() {
       <GetStart />
       <Pricing />
       <Transform />
+      <Footer />
 
     </>
   )
