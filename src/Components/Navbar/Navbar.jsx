@@ -16,7 +16,7 @@ const Navbar = () => {
 
             <div className='flex gap-4 items-center'>
                 <CiShoppingCart size={30} />
-                <button className='btn'>Login</button>
+                <button className='font-normal'>Login</button>
                 <button className=' btn text-white bg-linear-to-r from-blue-800 to-purple-500 rounded-full'>Get Started</button>
 
             </div>
