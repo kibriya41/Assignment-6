@@ -8,7 +8,7 @@ const HeroPart = () => {
     return (
         <div className='max-w-9/12 m-auto s flex justify-between items-center my-20'>
             <div className='items-start flex flex-col gap-4 '>
-                <div className='flex justify-center items-center gap-2 text-purple-600 font-light bg-purple-100 max-w-80 text-lg rounded-full '> <FaRegDotCircle />
+                <div className='flex justify-center items-center gap-2 text-purple-600 font-light bg-purple-100 max-w-80 text-lg rounded-full px-4 py-2'> <FaRegDotCircle />
                     New: AI-Powered Tools Available</div>
                 <h2 className='text-7xl font-extrabold'>Supercharge Your <br /> Digital Workflow</h2>
                 <p className='text-lg text-[#627382]'>Access premium AI tools, design     assets, templates, and productivity <br />
