@@ -8,7 +8,7 @@ const GetStart = () => {
         <div className='bg-[#F9FAFC] py-32'>
             <div className='max-w-9/12 m-auto text-center'>
                 <h3 className='text-5xl font-extrabold'>Get Started in 3 Steps</h3>
-                <p className='text-lg font-light text-[#627382] mt-4'>Start using premium digital tools in minutes, not hours.</p>
+                <p className='text-sm font-light text-[#627382] mt-4'>Start using premium digital tools in minutes, not hours.</p>
                 <div className='grid grid-cols-1 md:grid-cols-3 gap-8 mt-10'>
                     <div className='flex flex-col items-center gap-4 border-2 border-gray-200 rounded-xl transition-all duration-[0.4s] hover:shadow-[0_20px_50px_rgba(148,68,251,0.2)] hover:-translate-y-2 p-4 relative'>
                         <img src={User} alt="" />

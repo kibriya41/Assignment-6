@@ -20,10 +20,10 @@ const Pricing = () => {
                         <li className='flex gap-2 text-lg font-light text-[#627382]'><img src={Check} alt="" />Community support</li>
                         <li className='flex gap-2 text-lg font-light text-[#627382]'><img src={Check} alt="" />1 project per month</li>
                     </ul>
-                    <button className='btn text-white bg-linear-to-r from-purple-600 to-purple-500 mr-4 rounded-full py-5 w-11/12 mx-auto'>Get Started Free</button>
+                    <button className='btn text-white bg-linear-to-r from-blue-700 to-purple-500 mr-4 rounded-full py-5 w-11/12 mx-auto'>Get Started Free</button>
                 </div>
 
-                <div className='flex flex-col items-start gap-4 border-2 border-gray-200 rounded-xl transition-all duration-[0.4s] hover:shadow-[0_20px_50px_rgba(148,68,251,0.2)] hover:-translate-y-2 p-6 bg-linear-to-r from-purple-600 to-purple-500 text-white relative'>
+                <div className='flex flex-col items-start gap-4 border-2 border-gray-200 rounded-xl transition-all duration-[0.4s] hover:shadow-[0_20px_50px_rgba(148,68,251,0.2)] hover:-translate-y-2 p-6 bg-linear-to-r from-blue-700 to-purple-500 text-white relative'>
                     
                     <h5>Pro</h5>
                     <p>Best for professionals</p>
@@ -52,7 +52,7 @@ const Pricing = () => {
                         <li className='flex gap-2 text-lg font-light text-[#627382]'><img src={Check} alt="" />SLA guarantee</li>
                         <li className='flex gap-2 text-lg font-light text-[#627382]'><img src={Check} alt="" />Custom branding</li>
                     </ul>
-                    <button className='btn text-white bg-linear-to-r from-purple-600 to-purple-500 mr-4 rounded-full py-5 w-11/12 mx-auto'>Get Started Free</button>
+                    <button className='btn text-white bg-linear-to-r from-blue-700 to-purple-500 mr-4 rounded-full py-5 w-11/12 mx-auto'>Get Started Free</button>
                 </div>
 
             </div>
